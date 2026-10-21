@@ -4,3 +4,7 @@ Thumbs.db
 *.swp
 .vscode/
 .idea/
+
+# Claude Code (local only)
+CLAUDE.md
+.claude/
